@@ -1,4 +1,5 @@
 # Стиль кода Академии HTML
+Стиль кода можно [посмотреть тут](https://codeguide.academy/).
 
 ## Благодарности
 
@@ -16,3 +17,5 @@
 ESLint — https://github.com/htmlacademy/eslint-config-htmlacademy
 
 Stylelint — https://github.com/htmlacademy/stylelint-config-htmlacademy
+
+linthtml — https://github.com/htmlacademy/linthtml-config-htmlacademy
